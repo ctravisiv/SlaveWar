@@ -1,2 +1,2 @@
 # SlaveWar
-Spartucus' Choices Game
+Spartucs' Choices Game
